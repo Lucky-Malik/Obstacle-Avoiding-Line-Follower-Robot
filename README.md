@@ -1,9 +1,7 @@
 # 🤖 Line Follower & Obstacle Avoiding Robot
 
-> A flexible, intelligent robot that combines line-following precision with obstacle-avoidance logic using **Arduino UNO**, **L298N Motor Driver**, and **Ultrasonic + IR sensors**.
+> A flexible, intelligent robot that combines line-following precision with obstacle-avoidance logic using **Arduino UNO**, **L298N Motor Driver**, and **Ultrasonic + IR sensors**. 
 
-![Robot Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Line_follower_robot.jpg/640px-Line_follower_robot.jpg)  
-<sub>*Representative image. Insert your own project image or GIF above for better impact.*</sub>
 
 ---
 
@@ -51,6 +49,15 @@ The circuit is powered by two 3.7V batteries in series (7.4V total). IR sensors 
 2. Calibrate IR sensors to detect black/white surfaces
 3. Test forward, turning, and obstacle detection manually
 4. Tune delays and speed as needed for optimal pathing
+
+---
+
+
+## 🤖 Real-Life Build
+
+Here’s the final working version of the robot:
+
+![Obstacle Avoiding Line Follower Robot](robot_preview.png)
 
 ---
 
