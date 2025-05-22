@@ -1,0 +1,20 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+
+# MacOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Compiled object files
+*.o
+
+# Backup files
+*~
